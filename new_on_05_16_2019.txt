@@ -1,4 +1,4 @@
-created new on 19_05_16 and modified to demonstrate fetch+merge ; which is pull;
+created new on 18_05_16 and modified to demonstrate fetch+merge ; which is pull;
 to demonstrate  pull.
 let us see delopv branch gets update or not?
 on the master branch made change #1 with committ #1
